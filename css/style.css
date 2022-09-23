@@ -8,7 +8,7 @@
 }
 
 .mao{
-    top: 0px;
+    top: 54px;
     right: 0;
     position: absolute;
     width: 100%;
@@ -16,10 +16,10 @@
 
 #onu{
     position: absolute;
-    width: 140px;
-    height: 85px;
-    left: 20px;
-    top: 40px;
+    width: 70px;
+    height: 45px;
+    left: 10px;
+    top: 5px;
 }
 
 .ods16{
@@ -188,7 +188,7 @@
 #grafico1{
     width: 600px;
     height: 450px;
-    top: 200px;
+    top: 300px;
     left: 400px;
     position: absolute;
     border-radius: 9%;
@@ -201,7 +201,7 @@
     top: 2520px;
     font-weight: 1000;
     font-family: 'Montserrat';
-    font-size: 30px;
+    font-size: 33px;
     line-height: 37px;
     text-indent: 20px;
     color: #FFFFFF;
@@ -231,22 +231,22 @@
 }
 
 #grafico{
-    width: 600px;
-    height: 350px;
-    top: 550px;
-    left: 400px;
+    width: 1100px;
+    height: 600px;
+    top: 600px;
+    left: -200px;
     position: absolute;
     border-radius: 9%;
 }
 
 .texto8{
     position: absolute;
-    width: 670px;
-    left: 60px;
-    top: 3640px;
+    width: 1200px;
+    left: -230px;
+    top: 3710px;
     font-weight: 1000;
     font-family: 'Montserrat';
-    font-size: 40px;
+    font-size: 43px;
     line-height: 37px;
     text-indent: 20px;
     color: #FFFFFF;
