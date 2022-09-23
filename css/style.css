@@ -1,6 +1,6 @@
 .wrapper{
     width: 100%;
-    height: 6000px;
+    height: 5700px;
     left: 0;
     top: 0;
     background-color: #0484c4;
@@ -197,7 +197,7 @@
 
 .rodape{
     width: 1400px;
-    height: 450px;
+    height: 300px;
     top: 5500px;
     left: -320px;
     background-color: #00689c;
@@ -229,32 +229,20 @@
     position: absolute;
     width: 670px;
     left: -30px;
-    top: 280px;
+    top: 208px;
     font-weight: 1000;
     font-family: 'Montserrat';
-    font-size: 25px;
+    font-size: 30px;
     line-height: 37px;
     text-indent: 20px;
-    color: #fdfdfdb2;
+    color: #ffffff;
 }
 
-.texto9{
-    position: absolute;
-    width: 1400px;
-    left: -150px;
-    top: 410px;
-    font-weight: 1000;
-    font-family: 'Montserrat';
-    font-size: 20px;
-    line-height: 37px;
-    text-indent: 20px;
-    color: #0b3053ad;
-}
 #icon1{
     position: absolute;
     height: 60px;
-    left: 970px;
-    top: 3000px;
+    left: 780px;
+    top: 5700px;
 }
 
 #icon1:active{
@@ -264,8 +252,8 @@
 #icon2{
     position: absolute;
     height: 60px;
-    left: 990px;
-    top: 3150px;
+    left: 700px;
+    top: 5700px;
 }
 
 #icon2:active{
@@ -275,8 +263,19 @@
 #icon3{
     position: absolute;
     height: 60px;
-    left: 980px;
-    top: 3300px;
+    left: 880px;
+    top: 5700px;
+}
+
+#icon3:active{
+    transform: scale(0.9);
+}
+
+#icon4{
+    position: absolute;
+    height: 70px;
+    left: 976px;
+    top: 5695px;
 }
 
 #icon3:active{
