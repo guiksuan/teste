@@ -109,7 +109,7 @@
 .img1{
     width: 65%;
     height: 450px;
-    top: 1330px;
+    top: 1350px;
     left: -250px;
     position: absolute;
     border-radius: 9%;
@@ -128,7 +128,7 @@
     color: #FFFFFF;
 }
 
-.justica{
+.img2{
     width: 65%;
     height: 450px;
     top: 1880px;
@@ -148,6 +148,15 @@
     line-height: 37px;
     text-indent: 20px;
     color: #FFFFFF;
+}
+
+.barra3{
+    position: absolute;
+    width: 864px;
+    height: 12px;
+    left: -24px;
+    top: 2390px;
+    background: #FFFFFF;
 }
 
 .texto5{
