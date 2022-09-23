@@ -122,7 +122,7 @@
     top: 1330px;
     font-weight: 1000;
     font-family: 'Montserrat';
-    font-size: 50px;
+    font-size: 45px;
     line-height: 37px;
     text-indent: 20px;
     color: #FFFFFF;
@@ -194,6 +194,20 @@
     border-radius: 9%;
 }
 
+.texto6{
+    position: absolute;
+    width: 670px;
+    left: -250px;
+    top: 2520px;
+    font-weight: 1000;
+    font-family: 'Montserrat';
+    font-size: 30px;
+    line-height: 37px;
+    text-indent: 20px;
+    color: #FFFFFF;
+}
+
+
 .barra4{
     position: absolute;
     width: 864px;
@@ -203,7 +217,7 @@
     background: #FFFFFF;
 }
 
-.texto6{
+.texto7{
     position: absolute;
     width: 670px;
     left: 60px;
@@ -223,6 +237,19 @@
     left: 400px;
     position: absolute;
     border-radius: 9%;
+}
+
+.texto8{
+    position: absolute;
+    width: 670px;
+    left: 60px;
+    top: 3640px;
+    font-weight: 1000;
+    font-family: 'Montserrat';
+    font-size: 40px;
+    line-height: 37px;
+    text-indent: 20px;
+    color: #FFFFFF;
 }
 
 #img3{
@@ -251,7 +278,7 @@
     top: 50px;
 }
 
-.texto7{
+.texto9{
     position: absolute;
     width: 670px;
     left: 0px;
@@ -264,7 +291,7 @@
     color: #FFFFFF;
 }
 
-.texto8{
+.texto10{
     position: absolute;
     width: 670px;
     left: -30px;
