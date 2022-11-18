@@ -1,74 +1,35 @@
-.wrapper{
-    width: 100%;
-    height: 5700px;
-    left: 0;
-    top: 0;
+body{
+    width: 60%;
+    height: 100%;
     background-color: #0484c4;
-    position:absolute;
 }
-
-.mao{
-    top: 54px;
-    right: 0;
-    position: absolute;
-    width: 100%;
-}
-
-#onu{
-    position: absolute;
-    width: 70px;
-    height: 45px;
-    left: 10px;
-    top: 5px;
-}
-
-.ods16{
-    top: 594px;
-    width: 100%;
-    position: absolute;
-}
-
+/*Essa parte abaixo, é, a primeira coisa que aparece quando você entra no site*/
 .titulo{
     position: absolute;
     width: 952px;
     height: 320px;
     left: 20%;
     top: 50px;
-    font-family: 'Fraunces';
-    font-size: 160px;
+    font-family: monospace;
+    font-size: 40px;
     line-height: 50px;
     text-align: center;
-    color: #2b52d3;    
+    color: #4466d8;    
 }
-
-.ods-16{
+.mao{
     position: absolute;
-    width: 618px;
-    height: 60px;
-    left: 11%;
-    top: 19px;
-    font-family: 'Montserrat';
-    font-weight: 400;
-    font-size: 25px;
-    line-height: 30px;
-    text-align: center;
-    color: #261f85;
+    width: 100%;
 }
-
-.barra1{
+.ods16{
     position: absolute;
-    width: 864px;
-    height: 12px;
-    left: -24px;
-    top: 800px;
-    background: #FFFFFF;
+    top: 520px;
+    width: 100%;
 }
-
 .texto1{
     position: absolute;
     width: 850px;
-    left: -24px;
-    top: 850px;
+    left: 500px;
+    top: 840px;
     font-weight: 1000;
     font-family: 'Montserrat';
     font-size: 40px;
@@ -76,14 +37,20 @@
     text-indent: 20px;
     color: #FFFFFF;
 }
-
+.barra1{
+    position: absolute;
+    width: 864px;
+    height: 12px;
+    left: 300px;
+    top: 900px;
+    background: #FFFFFF;
+}
 .video{
     position: absolute;
-    left: 100px;
-    top: 63px;
+    left: 470px;
+    top: 955px;
 
 }
-
 .barra2{
     position: absolute;
     width: 864px;
@@ -92,7 +59,6 @@
     top: 1250px;
     background: #FFFFFF;
 }
-
 .texto2{
     position: absolute;
     width: 850px;
@@ -105,7 +71,6 @@
     text-indent: 20px;
     color: #FFFFFF;
 }
-
 .img1{
     width: 65%;
     height: 450px;
@@ -114,7 +79,6 @@
     position: absolute;
     border-radius: 9%;
 }
-
 .texto3{
     position: absolute;
     width: 650px;
@@ -127,7 +91,6 @@
     text-indent: 20px;
     color: #FFFFFF;
 }
-
 .texto4{
     position: absolute;
     width: 650px;
@@ -140,7 +103,6 @@
     text-indent: 20px;
     color: #FFFFFF;
 }
-
 .img2{
     width: 65%;
     height: 450px;
@@ -149,7 +111,6 @@
     position: absolute;
     border-radius: 9%;
 }
-
 .texto4{
     position: absolute;
     width: 650px;
@@ -162,7 +123,6 @@
     text-indent: 20px;
     color: #FFFFFF;
 }
-
 .barra3{
     position: absolute;
     width: 864px;
@@ -171,7 +131,6 @@
     top: 2390px;
     background: #FFFFFF;
 }
-
 .texto5{
     position: absolute;
     width: 670px;
@@ -184,7 +143,6 @@
     text-indent: 20px;
     color: #FFFFFF;
 }
-
 #grafico1{
     width: 600px;
     height: 450px;
@@ -193,7 +151,6 @@
     position: absolute;
     border-radius: 9%;
 }
-
 .texto6{
     position: absolute;
     width: 670px;
@@ -206,8 +163,6 @@
     text-indent: 20px;
     color: #FFFFFF;
 }
-
-
 .barra4{
     position: absolute;
     width: 864px;
@@ -216,7 +171,6 @@
     top: 3590px;
     background: #FFFFFF;
 }
-
 .texto7{
     position: absolute;
     width: 670px;
@@ -229,7 +183,6 @@
     text-indent: 20px;
     color: #FFFFFF;
 }
-
 #grafico{
     width: 1100px;
     height: 600px;
@@ -238,7 +191,6 @@
     position: absolute;
     border-radius: 9%;
 }
-
 .texto8{
     position: absolute;
     width: 1200px;
@@ -251,7 +203,6 @@
     text-indent: 20px;
     color: #FFFFFF;
 }
-
 #img3{
     width: 1050px;
     height: 480px;
@@ -260,7 +211,6 @@
     position: absolute;
     border-radius: 9%;
 }
-
 .rodape{
     width: 1400px;
     height: 300px;
@@ -269,7 +219,6 @@
     background-color: #00689c;
     position: absolute;
 }
-
 #onu2{
     position: absolute;
     width: 140px;
@@ -277,7 +226,6 @@
     left: 20px;
     top: 50px;
 }
-
 .texto9{
     position: absolute;
     width: 670px;
@@ -290,7 +238,6 @@
     text-indent: 20px;
     color: #FFFFFF;
 }
-
 .texto10{
     position: absolute;
     width: 670px;
@@ -303,47 +250,39 @@
     text-indent: 20px;
     color: #ffffff;
 }
-
 #icon1{
     position: absolute;
     height: 60px;
     left: 780px;
     top: 5700px;
 }
-
 #icon1:active{
     transform: scale(0.9);
 }
-
 #icon2{
     position: absolute;
     height: 60px;
     left: 700px;
     top: 5700px;
 }
-
 #icon2:active{
     transform: scale(0.9);
 }
-
 #icon3{
     position: absolute;
     height: 60px;
     left: 880px;
     top: 5700px;
 }
-
 #icon3:active{
     transform: scale(0.9);
 }
-
 #icon4{
     position: absolute;
     height: 70px;
     left: 976px;
     top: 5695px;
 }
-
 #icon3:active{
     transform: scale(0.9);
 }
